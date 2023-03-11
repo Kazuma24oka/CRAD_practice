@@ -1,0 +1,7 @@
+/* formのCSS */
+.record_form{width: 300px;}
+.button_form{width: 250px;background-color: rgb(200,200,200);color: black;border: 1px solid black;font-weight: bolder;}
+.form_margin{margin: 15% 10% 10% 10%;}
+.info_button{
+    margin: 10% 34% 10% 62%;
+}
